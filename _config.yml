@@ -2,7 +2,7 @@ title: PRIMAL ODD
 description: These is the Degenesis Primal Odd campaign website
 theme: just-the-docs
 
-url: https://terra-campaigns.github.io/
+url: https://terra-campaigns.github.io/degenesis
 
 permalink: pretty
 plugins:
@@ -24,13 +24,13 @@ favicon_ico: "/imgs/favicon.ico"
 color_scheme: site
 
 # Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
+# back_to_top: true
+# back_to_top_text: "Back to top"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/terra-campaigns/degenesis.test" # the github URL for your repo
+gh_edit_repository: "https://github.com/terra-campaigns/degenesis" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately

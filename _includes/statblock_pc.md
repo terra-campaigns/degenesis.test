@@ -9,6 +9,8 @@
 
 |**Gear:** {% for sec in page.gear %} {{ sec }}, {% endfor %}
 
+{% include connected_to.md %}
+
 {% comment %}
-statblock_pc v0.2
+statblock_pc v0.2.1
 {% endcomment %}

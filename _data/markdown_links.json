@@ -1,0 +1,2173 @@
+{
+    "file": {
+        "CHANGELOG.md": [
+            {
+                "text": "template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "https://github.com/terra-campaigns/template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "https://terra-campaigns.github.io/degenesis/",
+                "url": "https://terra-campaigns.github.io/degenesis/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Cairn",
+                "url": "https://cairnrpg.com/hacks/fork-this/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://cairnrpg.com/favicon.ico"
+            },
+            {
+                "text": "Terra System",
+                "url": "https://terra-campaigns.github.io/terraSystem/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "CHANGELOG",
+                "url": "_includes/srd_modules/srd_version.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "README.md": [
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "index.md": [
+            {
+                "text": "One",
+                "url": "https://www.youtube.com/watch?v=WTCARC91yyw",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.youtube.com/favicon.ico"
+            },
+            {
+                "text": "Two",
+                "url": "https://www.youtube.com/watch?v=0Tw3KaMr8wk",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.youtube.com/favicon.ico"
+            },
+            {
+                "text": "predicament",
+                "url": "https://degenesis.com/downloads/transmissions/you",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Dave Thaumavore's **Degenesis** Review",
+                "url": "https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://youtu.be/favicon.ico"
+            },
+            {
+                "text": "**Degenesis** Official",
+                "url": "https://degenesis.com",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Lore Drops",
+                "url": "https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.youtube.com/favicon.ico"
+            },
+            {
+                "text": "Echoes of Eshaton",
+                "url": "https://echoesofeshaton.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://echoesofeshaton.com/favicon.ico"
+            },
+            {
+                "text": "Open Table",
+                "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.thearcanelibrary.com/favicon.ico"
+            },
+            {
+                "text": "Degenesis",
+                "url": "https://degenesis.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Primal Odd",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "website",
+                "url": "https://terra-campaigns.github.io/degenesis/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "_includes/srd_modules/hp.md": [
+            {
+                "text": "Healing & Recovery",
+                "url": "_includes/srd_modules/core-rules.md#Healing%20&%20Recovery",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/core-rules.md#Scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/core-rules.md#Healing%20&%20Recovery": [
+            {
+                "text": "Healing & Recovery",
+                "url": "_includes/srd_modules/hp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/core-rules.md#Scars": [
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/hp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/srd_version.md": [
+            {
+                "text": "CHANGELOG",
+                "url": "CHANGELOG.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cairn 2e",
+                "url": "https://cairnrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://cairnrpg.com/favicon.ico"
+            },
+            {
+                "text": "Yochai Gal",
+                "url": "https://newschoolrevolution.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://newschoolrevolution.com/favicon.ico"
+            },
+            {
+                "text": "Mark of the Odd",
+                "url": "https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "Chris McDowall",
+                "url": "https://www.bastionland.com",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "https://github.com/terra-campaigns/template",
+                "url": "https://github.com/terra-campaigns/template",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://github.com/favicon.ico"
+            },
+            {
+                "text": "CC-BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0\\",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://creativecommons.org/favicon.ico"
+            }
+        ],
+        "_includes/srd_modules/npcs.md": [
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#backgrounds": [
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/npcs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/combat.md": [
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/#scars-table",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#scars-table": [
+            {
+                "text": "Scars",
+                "url": "_includes/srd_modules/combat.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/character-creation.md": [
+            {
+                "text": "Character Sheet",
+                "url": "https://raw.githubusercontent.com/terra-campaigns/degenesis.test/refs/heads/main/systems/template_pc.md",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://raw.githubusercontent.com/favicon.ico"
+            },
+            {
+                "text": "Background",
+                "url": "_includes/srd_modules/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bond",
+                "url": "_includes/srd_modules/#bonds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Attribute",
+                "url": "_includes/srd_modules/#attributes",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Hit Protection",
+                "url": "_includes/srd_modules/#hit-protection",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#bonds": [
+            {
+                "text": "Bond",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#attributes": [
+            {
+                "text": "Attribute",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#hit-protection": [
+            {
+                "text": "Hit Protection",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/README.md": [
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "_site/systems/culture.md": [
+            {
+                "text": "Culture",
+                "url": "https://degenesis.com/world/cultures/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "_site/systems/backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "POLLEN",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Scrapers",
+                "url": "_site/systems/backgrounds/scrapers",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalians",
+                "url": "_site/systems/backgrounds/spitalians",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anabaptists",
+                "url": "_site/systems/backgrounds/anabaptists",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Apocalyptics",
+                "url": "_site/systems/backgrounds/apocalyptics",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cossacks",
+                "url": "_site/systems/backgrounds/cossacks",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/backgrounds": [
+            {
+                "text": "Backgrounds",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/backgrounds/scrapers": [
+            {
+                "text": "Scrapers",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/backgrounds/spitalians": [
+            {
+                "text": "Spitalians",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/backgrounds/anabaptists": [
+            {
+                "text": "Anabaptists",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/backgrounds/apocalyptics": [
+            {
+                "text": "Apocalyptics",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/ruin.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sepsis Mutation",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oddular Mechanics",
+                "url": "https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "Liminal Horror",
+                "url": "https://liminalhorrorrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            }
+        ],
+        "_site/systems/#sepsis-mutations": [
+            {
+                "text": "Sepsis Mutation",
+                "url": "_site/systems/ruin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "locations/Shard.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Shard",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Shard",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "locations/Cherasky.md": [
+            {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cherasky",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cherasky",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/cossacks.md": [
+            {
+                "text": "Cossacks",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cossacks",
+                "url": "people/Vorons/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "COSSACKS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vorons/index.md": [
+            {
+                "text": "Chroniclers",
+                "url": "systems/backgrounds/chroniclers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scrapers",
+                "url": "systems/backgrounds/scrapers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Apocalyptics",
+                "url": "systems/backgrounds/apocalyptics.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/backgrounds/chroniclers.md": [
+            {
+                "text": "Chroniclers",
+                "url": "people/Vorons/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Chroniclers",
+                "url": "https://degenesis.com/world/cults/chroniclers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/scrapers.md": [
+            {
+                "text": "Scrapers",
+                "url": "people/Vorons/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scrappers",
+                "url": "https://degenesis.com/world/cults/scrappers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vorons",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "SCRAPERS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/apocalyptics.md": [
+            {
+                "text": "Apocalyptics",
+                "url": "people/Vorons/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "APOCALYPTICS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Apocalyptics",
+                "url": "https://degenesis.com/world/cults/apocalyptics",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vorons",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "people/Vostok/rurik.md": [
+            {
+                "text": "index",
+                "url": "people/Vostok/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "people/Vostok/Vostok/index.md": [
+            {
+                "text": "index",
+                "url": "people/Vostok/rurik.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "people/Vostok/yelena.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/luna.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "The Spitalian raid",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Luna",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Luna",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/yelena.md": [
+            {
+                "text": "index",
+                "url": "people/Vostok/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vostok & Ironclaw purged",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/mirova.md": [
+            {
+                "text": "Vostok",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vostok & Ironclaw purged",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Mirova",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/index.md": [
+            {
+                "text": "Vostok",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Elder Mirova",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/mirova",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Rurik, the Swift",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/rurik",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yelena, the Seer",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yelena",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "The Spitalian raid",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vostok",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scouts",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vostok Scouts",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/jacob.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "The Spitalian raid",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Jacob",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jacob",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/skittle.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Skittle",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/sofia.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Dr. Sofia Markov",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/Vostok/yuri.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yuri",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/Yelena.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/IsoldePax.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "IsoldePax",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/index.md": [
+            {
+                "text": "RexRustyRoss",
+                "url": "people/ProtectorateClique/RexRustyRoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "SashaVolkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "MaraTheRatQuinn",
+                "url": "people/ProtectorateClique/MaraTheRatQuinn.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "KazimirIronblood",
+                "url": "people/ProtectorateClique/KazimirIronblood.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/RexRustyRoss.md": [
+            {
+                "text": "RexRustyRoss",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/SashaVolkov.md": [
+            {
+                "text": "SashaVolkov",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/MaraTheRatQuinn.md": [
+            {
+                "text": "MaraTheRatQuinn",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/KazimirIronblood.md": [
+            {
+                "text": "KazimirIronblood",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/Dexter.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/KonradJager.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/MarcusVoss.md": [
+            {
+                "text": "East Pollen, 2094-04-19",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "one of the Anabaptists",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/ToNikopol3b.md": [
+            {
+                "text": "East Pollen, 2094-04-19",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elara Nyx",
+                "url": "people/ProtectorateClique/ElaraNyx.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Husk Spiders",
+                "url": "creatures/HuskSpiderSwarm.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Migrants",
+                "url": "creatures/Migrants.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/ComPrimeKlaus.md": [
+            {
+                "text": "Protectorate Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "one of the Anabaptists",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/PurifierHarlem.md": [
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/VostokIronclawPurged/chap2.md": [
+            {
+                "text": "index",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Luna",
+                "url": "people/Vostok/luna.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jacob",
+                "url": "people/Vostok/jacob.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Luna",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/luna",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Jacob",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/jacob",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "campaigns/VostokIronclawPurged/index.md": [
+            {
+                "text": "Vostok",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Mirova",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/Vostok/yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scouts",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "The Spitalian raid",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Elder Mirova",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/mirova",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yelena, the Seer",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yelena",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "campaigns/VostokIronclawPurged/chap1.md": [
+            {
+                "text": "Vostok Scouts",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jacob",
+                "url": "people/Vostok/jacob.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yuri",
+                "url": "people/Vostok/yuri.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Skittle",
+                "url": "people/Vostok/skittle.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Luna",
+                "url": "people/Vostok/luna.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dr. Sofia Markov",
+                "url": "people/Vostok/sofia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kramatorsk",
+                "url": "locations/Kramatorsk.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Chroniclers",
+                "url": "https://degenesis.com/world/cults/chroniclers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Shard",
+                "url": "locations/Shard.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Jacob",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/jacob",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yuri",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yuri",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Skittle",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/skittle",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Luna",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/luna",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Dr. Sofia Markov",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/sofia",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Kramatorsk",
+                "url": "https://terra-campaigns.github.io/degenesis/locations/Kramatorsk",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Shard",
+                "url": "https://terra-campaigns.github.io/degenesis/locations/Shard",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "locations/Kramatorsk.md": [
+            {
+                "text": "Kramatorsk",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/ToNikopol3a.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Protectorate",
+                "url": "https://degenesis.com/world/stories/borca/justitian",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "locations/Nikopol.md": [
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/ToNikopol2.md": [
+            {
+                "text": "Cherasky",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Inquisitor Thorne",
+                "url": "people/ProtectorateClique/InquisitorThorne.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dr. Moreau",
+                "url": "people/ProtectorateClique/DrMoreau.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fractal Forest",
+                "url": "https://discord.com/channels/1060840338777964565/1288248721322020926/1307719825501589515",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://discord.com/favicon.ico"
+            },
+            {
+                "text": "Shard",
+                "url": "locations/Shard.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/InquisitorThorne.md": [
+            {
+                "text": "Inquisitor Thorne",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Inquisitor Thorne",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/DrMoreau.md": [
+            {
+                "text": "Dr. Moreau",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/ToNikopol1.md": [
+            {
+                "text": "Cherasky",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "IsoldePax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ElaraNyx",
+                "url": "people/ProtectorateClique/ElaraNyx.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/ElaraNyx.md": [
+            {
+                "text": "ElaraNyx",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elara Nyx",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "creatures/HuskSpiderSwarm.md": [
+            {
+                "text": "Husk Spiders",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "creatures/Migrants.md": [
+            {
+                "text": "Migrants",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Migrant",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "campaigns/ConnectNikopol/ReturnGeteli.md": [
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spitalians",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Migrant",
+                "url": "creatures/Migrants.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Inquisitor Thorne",
+                "url": "people/ProtectorateClique/InquisitorThorne.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "a grotesque garden of twisted humanity",
+                "url": "https://degenesis.com/world/stories/pollen/czar",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/spitalians.md": [
+            {
+                "text": "Spitalians",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "SPITALIANS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "https://degenesis.com/world/cults/spitalians",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Return Geteli",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "systems/culture.md": [
+            {
+                "text": "Culture",
+                "url": "https://degenesis.com/world/cultures/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "systems/backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "POLLEN",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Scrapers",
+                "url": "systems/backgrounds/scrapers",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalians",
+                "url": "systems/backgrounds/spitalians",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anabaptists",
+                "url": "systems/backgrounds/anabaptists",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Apocalyptics",
+                "url": "systems/backgrounds/apocalyptics",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/backgrounds": [
+            {
+                "text": "Backgrounds",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/scrapers": [
+            {
+                "text": "Scrapers",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/spitalians": [
+            {
+                "text": "Spitalians",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/anabaptists": [
+            {
+                "text": "Anabaptists",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/apocalyptics": [
+            {
+                "text": "Apocalyptics",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/ruin.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sepsis Mutation",
+                "url": "systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oddular Mechanics",
+                "url": "https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "Liminal Horror",
+                "url": "https://liminalhorrorrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            }
+        ],
+        "systems/#sepsis-mutations": [
+            {
+                "text": "Sepsis Mutation",
+                "url": "systems/ruin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/terraSystem.md": [
+            {
+                "text": "SRD",
+                "url": "https://terra-campaigns.github.io/terraSystem/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Degenesis website",
+                "url": "https://degenesis.com/downloads/books/degenesis-rebirth-edition",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "The Metamorphica (Classic Edition)",
+                "url": "https://www.drivethrurpg.com/pt/product/115703/The-Metamorphica-Classic-Edition",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.drivethrurpg.com/favicon.ico"
+            },
+            {
+                "text": "here",
+                "url": "systems/assets/TerranSheet.pdf",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Homo Degenesis",
+                "url": "https://degenesis.com/world/stories/essential-reads/homo-degenesis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Blades in the Dark",
+                "url": "http://www.bladesinthedark.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "http://www.bladesinthedark.com/favicon.ico"
+            },
+            {
+                "text": "Creative Commons Attribution 3.0 Unported license",
+                "url": "http://creativecommons.org/licenses/by/3.0/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "http://creativecommons.org/favicon.ico"
+            },
+            {
+                "text": "*World of Dungeons*",
+                "url": "https://johnharper.itch.io/world-of-dungeons",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://johnharper.itch.io/favicon.ico"
+            },
+            {
+                "text": "Trophy",
+                "url": "https://trophyrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://trophyrpg.com/favicon.ico"
+            },
+            {
+                "text": "*Best Left Buried Zine Edition*",
+                "url": "https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://soulmuppet-store.co.uk/favicon.ico"
+            }
+        ],
+        "systems/assets/TerranSheet.pdf": [
+            {
+                "text": "here",
+                "url": "systems/terraSystem.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/judges.md": [
+            {
+                "text": "Judges",
+                "url": "https://degenesis.com/world/cults/judges",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/hellvetics.md": [
+            {
+                "text": "Hellvetics",
+                "url": "https://degenesis.com/world/cults/hellvetics",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/index.md": [
+            {
+                "text": "SCRAPERS",
+                "url": "systems/backgrounds/scrapers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "SPITALIANS",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ANABAPTISTS",
+                "url": "systems/backgrounds/anabaptists.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "APOCALYPTICS",
+                "url": "systems/backgrounds/apocalyptics.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "COSSACKS",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Degenesis Cults & Clans",
+                "url": "https://degenesis.com/world/cults/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/anabaptists.md": [
+            {
+                "text": "ANABAPTISTS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anabaptists",
+                "url": "https://degenesis.com/world/cults/anabaptists",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/jehammedans.md": [
+            {
+                "text": "Jehammedan",
+                "url": "https://degenesis.com/world/cults/jehammedans",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ]
+    }
+}
