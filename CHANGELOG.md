@@ -16,6 +16,21 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.5.0-deg
+
+- **Directory**: People, factions and locations are now part of a Directory section
+- Added:
+	- Carousing procedures
+- Changed:
+	- Damage of Rarogi Piercer
+	- Creatures is part of Systems
+	- Adding equipment to bonds: Amnesiac, Adventurer, Martyr, Seeker, Mediator, Hermit, Destroyer, Chosen, Protector, Visionary & Traveller.
+	- Several typos
+- Removed:
+	- armour include is now part of combat include
+- Under the hood
+	- Updated gems
+
 ## v0.4.7-deg
 
 - Added:
@@ -127,7 +142,7 @@ nav_exclude: TRUE
 ## v0.3.0
 
 - **Modularisation**: Modules are now part of include files
-- **Merged TerraOdd into Templates**:Templated folder structure and aesthetics
+- **Merged TerraOdd into Templates**: Templated folder structure and aesthetics
 - Added:
 	- 404.html
 - Changed:
